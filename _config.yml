@@ -2,21 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Projects, Code & Curious Ideas 
+title: Yijia Xu # the website title (if blank, full name will be used instead)
 first_name: Yijia
 middle_name: 
 last_name: Xu
 contact_note: >
-  Feel free to contact me through my email address xuy13023@gmail.com
+  xuy13023@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Turning coffee into code & research into results
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: creative projects, code with impact, research meets real life, curious ideas, bridging data and people # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🎓 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://xuy13023.github.io # the base hostname & protocol for your site
 baseurl: 
