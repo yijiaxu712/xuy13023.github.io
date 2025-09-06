@@ -14,21 +14,11 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I’m **Yijia Xu** — a policy and data analyst passionate about using **quantitative research and statistical modeling** to address questions in education, inequality, and social development.  
+Hi, I’m **Yijia Xu** — a policy and data analyst passionate about using quantitative research and statistical modeling to address questions in education, inequality, and social development.  
 
-I recently completed my **M.A. in Educational Theory and Policy (GPA: 3.98/4.0)** at *Pennsylvania State University*, where I focused on **statistics, behavioral science applications, and quantitative methods**. Before that, I earned my **B.S. in Psychology** from *Shenzhen University*, with a strong foundation in **mathematics, experimental psychology, and data analysis**.  
+I recently completed my M.A. in Educational Theory and Policy (GPA: 3.98/4.0) at *Pennsylvania State University*, where I focused on statistics, behavioral science applications, and quantitative methods. Before that, I earned my B.S. in Psychology from Shenzhen University, with a strong foundation in mathematics, experimental psychology, and data analysis.  
 
 My research and professional work have centered on:
 - **Educational inequality** — analyzing national panel datasets (e.g., PISA, TIMSS, ACS) to study shadow education and socioeconomic disparities.  
