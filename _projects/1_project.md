@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: EXAMING THE USE OF SHADOW EDUCATION UNDER THE DOUBLE REDUCTION POLICY: EVIDENCE FROM CHINA FAMILY PANEL STUDIES
+description: Shadow education has grown rapidly in China, raising concerns about inequality and student burden. To address this, the “Double Reduction” policy was introduced in 2021 to regulate tutoring and reduce workloads. Using CFPS 2020 and 2022 data, this study evaluates changes in tutoring participation across regions and socioeconomic groups.
 img: assets/img/12.jpg
 importance: 1
 category: work
