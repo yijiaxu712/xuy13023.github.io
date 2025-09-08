@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Shadow Education Under the Double Reducation Policy -- Panel Study
-description: with background image
+title: Shadow Education
+description: The Use of Shadow Education Under the Double Reducation Policy
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**Abstract**
+Shadow education has increasingly become a popular global phenomenon. Many policies and measures have been introduced to alleviate the inequality caused by shadow education and to reduce students' academic burdens. For example, on July 24th, 2021, the Chinese government introduced the "Double Reduction" policy, aiming to reduce the academic burden on students and regulate the growth of off-campus tutoring. However, empirical studies examining the effectiveness of this policy remain limited. This study utilized nationally representative data from the China Family Panel Survey (CFPS) collected in 2020 and 2022 to examine the overall changes in the use of shadow education before and after the policy's implementation. Specifically, this study compared the participation rate of different types of tutoring and across different regions. Additionally, the study examined the use of shadow education across different socioeconomic status (SES) levels. By providing empirical evidence, this research offers a clearer understanding of the Double Reduction policy's effectiveness and its impact on students from varying family background.
 
     ---
     layout: page
