@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Shadow Education Under the Double Reducation Policy -- Panel Study
 description: with background image
 img: assets/img/12.jpg
 importance: 1
