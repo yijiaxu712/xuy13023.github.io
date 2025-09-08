@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-shadow-education-under-the-double-reducation-policy-panel-study",
-          title: 'Shadow Education Under the Double Reducation Policy -- Panel Study',
-          description: "with background image",
+          section: "News",},{id: "projects-shadow-education",
+          title: 'Shadow Education',
+          description: "The Use of Shadow Education Under the Double Reducation Policy",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
