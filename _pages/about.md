@@ -1,15 +1,15 @@
 ---
 layout: about
 title: about
-permalink: /
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <p>she/her</p>
     <p>San Diego, CA</p>
+    
 ---
 
 Hi, I’m **Yijia Xu** — I currently volunteer with [We Independent] (https://www.weindependent.org), a women-centered NGO supporting dependent-visa holders with mental-health resources, career readiness, and legal literacy. 
