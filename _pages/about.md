@@ -12,7 +12,6 @@ profile:
     <p>she/her</p>
     <p>San Diego, CA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -25,7 +24,5 @@ My cross-disciplinary training in psychology and education gives me a broad rese
 - **Policy & Practice** — evaluating K–12 education policies and programs using quantitative methods.
 - **Mental Health & Well-Being** — mixed-methods work modeling protective factors and barriers to care among international/minoritized students; integrating semi-structured interviews and classroom/field observations with thematic coding to contextualize quantitative findings.
 
-Also, through three volunteer teaching programs serving rural and left-behind children, I witnessed large gaps in resources, teacher capacity, and psychosocial support. These gaps shape not only learning outcomes but also well-being. I aim to produce evidence that travels—actionable insights that reduce inequality and expand opportunity.
-
-During my spare time, I enjoy hiking, kayaking cooking and taking photos. 
+Through three volunteer teaching experiences with rural students, students from low-income families, and students on the autism spectrum, I observed how inequities in resources, educator support, and family environments shape educational pathways. I plan to pursue advanced study in education, using empirical, regression-focused research to evaluate programs and translate evidence into actionable guidance. Career-wise, I aim to provide actionable policy advice to governments and schools to reduce inequality and expand opportunity—while maintaining classroom practice to sustain a strong feedback loop between research and implementation.
 
