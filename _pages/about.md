@@ -9,20 +9,19 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5370 Toscana Way</p>
-    <p>San Diego, CA 92122</p>
+    <p>she/her</p>
+    <p>San Diego, CA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I’m **Yijia Xu** — a policy and data analyst passionate about using quantitative research and statistical modeling to address questions in education, inequality, and social development.  
-
-I recently completed my M.A. in Educational Theory and Policy (GPA: 3.98/4.0) at *Pennsylvania State University*, where I focused on statistics, behavioral science applications, and quantitative methods. Before that, I earned my B.S. in Psychology from Shenzhen University, with a strong foundation in mathematics, experimental psychology, and data analysis.  
+Hi, I’m **Yijia Xu** — I currently volunteer with [We Independent] (https://www.weindependent.org), a women-centered NGO supporting dependent-visa holders with mental-health resources, career readiness, and legal literacy. 
 
 My research and professional work have centered on:
-- **Educational inequality** — analyzing national panel datasets (e.g., PISA, TIMSS, ACS) to study shadow education and socioeconomic disparities.  
-- **Quantitative methods** — regression, panel data models, factor analysis, and survey design.  
-- **Policy and practice** — projects on mental health help-seeking, tutoring participation, and decision-making in higher education.  
+- **Educational Inequality** — analyzing large-scale datasets with regression-based designs to study shadow education and socioeconomic disparities.  
+- **Policy & Practice** — evaluating K–12 education policies and programs using quantitative methods.
+- **Mental Health & Well-Being** — mixed-methods work modeling protective factors and barriers to care among international/minoritized students; integrating semi-structured interviews and classroom/field observations with thematic coding to contextualize quantitative findings.
+  
+I completed my M.A. in *Educational Theory and Policy* at [Pennsylvania State University](https://www.psu.edu/) in May 2025. Before that, I earned my B.S. in *Psychology* from [Shenzhen University] (https://en.szu.edu.cn) in China. During my spare time, I enjoy hiking, kayaking cooking and taking photos. 
 
-I have hands-on experience with **Stata, R, SQL, Tableau, and SPSS**, and I enjoy building clean, reproducible workflows that transform complex data into clear insights.  
