@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -11,8 +10,6 @@ profile:
   more_info: >
     <p>she/her</p>
     <p>San Diego, CA</p>
-
-social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I’m **Yijia Xu** — I currently volunteer with [We Independent] (https://www.weindependent.org), a women-centered NGO supporting dependent-visa holders with mental-health resources, career readiness, and legal literacy. 
