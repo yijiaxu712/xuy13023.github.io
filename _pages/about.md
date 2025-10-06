@@ -12,9 +12,9 @@ profile:
     
 ---
 
-Hi, I’m **Yijia Xu** — I currently volunteer with [We Independent] (https://www.weindependent.org), a women-centered NGO supporting dependent-visa holders with mental-health resources, career readiness, and legal literacy. 
+Hi, I’m **Yijia Xu** — I currently volunteer with [We Independent](https://www.weindependent.org), a women-centered NGO supporting dependent-visa holders with mental-health resources, career readiness, and legal literacy. 
 
-I completed my M.A. in *Educational Theory and Policy* at [Pennsylvania State University](https://www.psu.edu/) in May 2025. Before that, I earned my B.S. in *Psychology* from [Shenzhen University] (https://en.szu.edu.cn) in China.
+I completed my M.A. in *Educational Theory and Policy* at [Pennsylvania State University](https://www.psu.edu/) in May 2025. Before that, I earned my B.S. in *Psychology* from [Shenzhen University](https://en.szu.edu.cn) in China.
 
 My cross-disciplinary training in psychology and education gives me a broad research lens. My interests are primarily focused on:
 - **Educational Inequality** — analyzing large-scale datasets with regression-based designs to study shadow education and socioeconomic disparities.  
