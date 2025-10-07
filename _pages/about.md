@@ -1,12 +1,13 @@
 ---
 layout: about
 title: about
+permalink: /
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
     <p>she/her</p>
     <p>San Diego, CA</p>
     
