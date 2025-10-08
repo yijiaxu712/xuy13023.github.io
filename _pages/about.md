@@ -13,14 +13,15 @@ profile:
     
 ---
 
-Hi, I’m **Yijia Xu** — I currently volunteer with [We Independent](https://www.weindependent.org), a women-centered NGO supporting dependent-visa holders with mental-health resources, career readiness, and legal literacy. 
+Hi, I’m **Yijia Xu**! 
+I currently volunteer with [We Independent](https://www.weindependent.org), a women-centered NGO that supports dependent-visa holders through mental health resources, career readiness programs, and legal literacy initiatives.
+I earned my M.A. in *Educational Theory and Policy* from [Pennsylvania State University](https://www.psu.edu/)  in May 2025, after completing a B.S. in *Psychology* at [Shenzhen University](https://en.szu.edu.cn) in China.
 
-I completed my M.A. in *Educational Theory and Policy* at [Pennsylvania State University](https://www.psu.edu/) in May 2025. Before that, I earned my B.S. in *Psychology* from [Shenzhen University](https://en.szu.edu.cn) in China.
+My cross-disciplinary background in psychology and education provides me with a broad analytical lens to examine complex social and educational issues. My primary research interests include:
 
-My cross-disciplinary training in psychology and education gives me a broad research lens. My interests are primarily focused on:
-- **Educational Inequality** — analyzing large-scale datasets with regression-based designs to study shadow education and socioeconomic disparities.  
-- **Policy & Practice** — evaluating K–12 education policies and programs using quantitative methods.
-- **Mental Health & Well-Being** — mixed-methods work modeling protective factors and barriers to care among international/minoritized students; integrating semi-structured interviews and classroom/field observations with thematic coding to contextualize quantitative findings.
-
-Through three volunteer teaching experiences with rural students, students from low-income families, and students on the autism spectrum, I observed how inequities in resources, educator support, and family environments shape educational pathways. I plan to pursue advanced study in education, using empirical, regression-focused research to evaluate programs and translate evidence into actionable guidance. Career-wise, I aim to provide actionable policy advice to governments and schools to reduce inequality and expand opportunity—while maintaining classroom practice to sustain a strong feedback loop between research and implementation.
-
+- **Educational Inequality**: Analyzing large-scale datasets using regression-based methods to explore shadow education and socioeconomic disparities.
+- **Policy and Practice**: Evaluating K–12 education policies and programs through quantitative analysis to inform evidence-based decision-making.
+- **Mental Health and Well-Being**: Employing mixed-methods approaches to model protective factors and barriers to care among international and minoritized students—integrating semi-structured interviews and classroom or field observations with thematic analysis to contextualize quantitative results.
+  
+Through three volunteer teaching experiences with rural students, students from low-income families, and students on the autism spectrum, I witnessed firsthand how disparities in resources, teacher support, and family environments shape educational trajectories. These experiences reinforced my commitment to pursuing advanced study in education—using empirical, regression-driven research to evaluate programs and transform data into actionable policy insights.
+Ultimately, I aspire to provide practical policy recommendations for governments and schools to reduce inequality and expand opportunity, while maintaining classroom engagement to ensure a continuous feedback loop between research and real-world practice.
