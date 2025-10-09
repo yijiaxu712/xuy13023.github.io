@@ -14,6 +14,7 @@ profile:
 ---
 
 Hi, I’m **Yijia Xu**! 
+
 I currently volunteer with [We Independent](https://www.weindependent.org), a women-centered NGO that supports dependent-visa holders through mental health resources, career readiness programs, and legal literacy initiatives.
 I earned my M.A. in *Educational Theory and Policy* from [Pennsylvania State University](https://www.psu.edu/)  in May 2025, after completing a B.S. in *Psychology* at [Shenzhen University](https://en.szu.edu.cn) in China.
 
